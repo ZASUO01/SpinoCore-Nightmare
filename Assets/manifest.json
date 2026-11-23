@@ -1,0 +1,277 @@
+{
+  "version": "1.0",
+  "assets": [
+    {
+      "name": "aim",
+      "type": "Texture",
+      "path": "Textures/Target-Aim-PNG.png"
+    },
+    {
+      "name": "character",
+      "type": "Model",
+      "path": "Models/character.glb"
+    },
+    {
+      "name": "gun",
+      "type": "Model",
+      "path": "Models/gun.glb"
+    },
+    {
+      "name": "ghost1",
+      "type": "Model",
+      "path": "Models/Enemies/ghost1.glb"
+    },
+    {
+      "name": "ghost2",
+      "type": "Model",
+      "path": "Models/Enemies/ghost2.glb"
+    },
+    {
+      "name": "speaker1",
+      "type": "Model",
+      "path": "Models/Speakers/speaker1.glb"
+    },
+    {
+      "name": "speaker2",
+      "type": "Model",
+      "path": "Models/Speakers/speaker2.glb"
+    },
+    {
+      "name": "street",
+      "type": "Model",
+      "path": "Models/Obstacles/Street Straight by Quaternius - UA4axT3nIQ.glb",
+      "material": "Materials/road.json"
+    },
+    {
+      "name": "ground",
+      "type": "Model",
+      "path": "Models/Obstacles/Street Straight by Quaternius - UA4axT3nIQ.glb",
+      "material": "Materials/ground.json"
+    },
+    {
+      "name": "cone",
+      "type": "Model",
+      "path": "Models/Obstacles/Road Cone by smallbigsquare - ZPhinXAGtY.glb"
+    },
+    {
+      "name": "concrete",
+      "type": "Model",
+      "path": "Models/Obstacles/Concrete Barrier by J-Toastie - he10X5eGD0.glb"
+    },
+    {
+      "name": "barrier",
+      "type": "Model",
+      "path": "Models/Obstacles/Barrier Fixed by Quaternius - Fg3Nimfcfg.glb"
+    },
+    {
+      "name": "trafficBarrier",
+      "type": "Model",
+      "path": "Models/Obstacles/Traffic Barrier by Zsky - SInF9le9Ch.glb"
+    },
+    {
+      "name": "spikeMine",
+      "type": "Model",
+      "path": "Models/Obstacles/Spike Mine by Aaron Clifford - 4VRVeCH1sHm.glb"
+    },
+    {
+      "name": "policeCar",
+      "type": "Model",
+      "path": "Models/Cars/Police Car by Quaternius - BwwnUrWGmV.glb"
+    },
+    {
+      "name": "car",
+      "type": "Model",
+      "path": "Models/Cars/Car by Poly by Google - 75h3mi6uHuC.glb"
+    },
+    {
+      "name": "pickup",
+      "type": "Model",
+      "path": "Models/Cars/Toyota Hilux 97 by Muhammad Reyhan - 8-0nFArehjd.glb"
+    },
+    {
+      "name": "hospitalSign",
+      "type": "Model",
+      "path": "Models/Buildings/Sign Hospital.glb"
+    },
+    {
+      "name": "building0",
+      "type": "Model",
+      "path": "Models/Buildings/Large Building-1bt4yYKmuK.glb"
+    },
+    {
+      "name": "building1",
+      "type": "Model",
+      "path": "Models/Buildings/Large Building-3IhrYZp6tP.glb"
+    },
+    {
+      "name": "building2",
+      "type": "Model",
+      "path": "Models/Buildings/Large Building-JgGLJH2iXj.glb"
+    },
+    {
+      "name": "building3",
+      "type": "Model",
+      "path": "Models/Buildings/Large Building-h7Jaq7bqMq.glb"
+    },
+    {
+      "name": "building4",
+      "type": "Model",
+      "path": "Models/Buildings/Large Building-ppwtREejXg.glb"
+    },
+    {
+      "name": "building5",
+      "type": "Model",
+      "path": "Models/Buildings/Large Building-sxXonOmtct.glb"
+    },
+    {
+      "name": "building6",
+      "type": "Model",
+      "path": "Models/Buildings/Large Building.glb"
+    },
+    {
+      "name": "building7",
+      "type": "Model",
+      "path": "Models/Buildings/Low Building-4RoPd9BkSx.glb"
+    },
+    {
+      "name": "building8",
+      "type": "Model",
+      "path": "Models/Buildings/Low Building-9fEKMpTsAi.glb"
+    },
+    {
+      "name": "building9",
+      "type": "Model",
+      "path": "Models/Buildings/Low Building-AXFdNPAEc9.glb"
+    },
+    {
+      "name": "building10",
+      "type": "Model",
+      "path": "Models/Buildings/Low Building-XsFOzw8E5N.glb"
+    },
+    {
+      "name": "building11",
+      "type": "Model",
+      "path": "Models/Buildings/Low Building-dYEbYdPfJr.glb"
+    },
+    {
+      "name": "building12",
+      "type": "Model",
+      "path": "Models/Buildings/Low Building-sObKC8Mio2.glb"
+    },
+    {
+      "name": "building13",
+      "type": "Model",
+      "path": "Models/Buildings/Low Building-tuieC1Pj0a.glb"
+    },
+    {
+      "name": "building14",
+      "type": "Model",
+      "path": "Models/Buildings/Low Building-zfjlejAxB7.glb"
+    },
+    {
+      "name": "building15",
+      "type": "Model",
+      "path": "Models/Buildings/Low Building.glb"
+    },
+    {
+      "name": "building16",
+      "type": "Model",
+      "path": "Models/Buildings/Low Wide-DKgknsHjmr.glb"
+    },
+    {
+      "name": "building17",
+      "type": "Model",
+      "path": "Models/Buildings/Low Wide.glb"
+    },
+    {
+      "name": "building18",
+      "type": "Model",
+      "path": "Models/Buildings/Skyscraper-BwEXdOoUSO.glb"
+    },
+    {
+      "name": "building19",
+      "type": "Model",
+      "path": "Models/Buildings/Skyscraper-PsPe0MzK0E.glb"
+    },
+    {
+      "name": "building20",
+      "type": "Model",
+      "path": "Models/Buildings/Skyscraper-XST1j6kYsL.glb"
+    },
+    {
+      "name": "building21",
+      "type": "Model",
+      "path": "Models/Buildings/Skyscraper-jIRx0AhYOR.glb"
+    },
+    {
+      "name": "building22",
+      "type": "Model",
+      "path": "Models/Buildings/Skyscraper-obYD8hWLTZ.glb"
+    },
+    {
+      "name": "building23",
+      "type": "Model",
+      "path": "Models/Buildings/Skyscraper.glb"
+    },
+    {
+      "name": "building24",
+      "type": "Model",
+      "path": "Models/Buildings/Small Building-QjL4Fo9dU9.glb"
+    },
+    {
+      "name": "building25",
+      "type": "Model",
+      "path": "Models/Buildings/Small Building-Rq572hdKEz.glb"
+    },
+    {
+      "name": "building26",
+      "type": "Model",
+      "path": "Models/Buildings/Small Building-gyjF60t7CG.glb"
+    },
+    {
+      "name": "building27",
+      "type": "Model",
+      "path": "Models/Buildings/Small Building-t9j9Lof5ul.glb"
+    },
+    {
+      "name": "building28",
+      "type": "Model",
+      "path": "Models/Buildings/Small Building-yLvnMqC9ZG.glb"
+    },
+    {
+      "name": "building29",
+      "type": "Model",
+      "path": "Models/Buildings/Small Building.glb"
+    },
+    {
+      "name": "menuMusic",
+      "type": "Sound",
+      "path": "Sounds/main_menu.mp3"
+    },
+    {
+      "name": "miss",
+      "type": "Sound",
+      "path": "Sounds/miss.mp3"
+    },
+    {
+      "name": "explosion",
+      "type": "Sound",
+      "path": "Sounds/destroy_object.mp3"
+    },
+    {
+      "name": "click",
+      "type": "Sound",
+      "path": "Sounds/click.mp3"
+    },
+    {
+      "name": "hover",
+      "type": "Sound",
+      "path": "Sounds/focus_button.mp3"
+    },
+    {
+      "name": "select",
+      "type": "Sound",
+      "path": "Sounds/select_button.mp3"
+    }
+  ]
+}
